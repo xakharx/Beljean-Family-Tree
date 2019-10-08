@@ -1,0 +1,43 @@
+  let momFamily = {
+    "Mizette Bardou": {
+      "Valerie Beljean": {
+        "Dylan Beljean": null,
+        "Beau Beljean": {
+          "Elise Beljean": null
+        }
+      }  
+      "Benoit Bardou": { 
+        "Laura Bardou": null
+        }
+      }
+    }
+  }
+
+  let dadFamily = {
+    "Nana Mildred Ralls": {
+      "Grammer": {
+        "Andrea Pate": {
+          "Jeston Dean Pate": null,
+          ""
+        }
+        "Bud Mc Daniel": {
+          "Randall Mc Daniel": null,
+          "Tyler Mc Daniel": null,
+        }
+        "David Sam Beljean": {
+          "Dylan Beljean": null,
+          "Beau Beljean": {
+            "Elise Beljean": null
+            }
+          }
+        }
+      }
+    }
+  }
+  let jdFamily = {
+    "Grandma Doe Pate": {
+      "Curtis Pate": {
+        "Jesston Dean Pate": null
+      }
+    }
+  }
